@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Get Random Fact By Your Number</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Patua+One" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="template/css/main.css" />
+</head>
+<body>
+	<div id='bubbleOne' class='bubble_w'>
+		<div class='bubble'>
+			<div class='bubblePanel'>
+				<div><span class="bubbleHeader">Firefox Guide</span></div>
+				<div class='removeBubble'></div>
+			</div>
+			<div class='bubbleContent'>
+				<div class='guideImg'><img src='template/images/chrome.png' alt='' /></div>
+			</div>
+		</div>
+	</div>
+	<div class='instruction'>
+		<div>
+			<i>Almost every browser doesn't allow to load facts, so you have to read this simple guide, to understand how to enable the opportunity to make this application works correctly.</i>
+		</div>
+		<div id='browsers'>
+			<div guideType='chrome' class='browser'>
+				<span class='browserName'>Chrome</span>
+			</div>
+			<div guideType='firefox' class='browser'>
+				<span class='browserName'>Firefox</span>
+			</div>
+			<div guideType='opera' class='browser'>
+				<span class='browserName'>Opera</span>
+			</div>
+		</div>
+	</div>
+	<div class='wrapperContent'>
+		<div class="content">
+			<header>
+				<h1>Type a number and get a random fact!</h1>
+				<h3>By NikitosGolubev - February 26th 2018</h3>
+				<a href='https://github.com/NikitosGolubev/numberFacts'>Repository - https://github.com/NikitosGolubev/numberFacts</a>
+			</header>
+			<div class='getFact'>
+				<div class='form'>
+					<input type="text" placeholder="Type a random number..." class='input numInput' name='number' id='number' />
+					<button class='input btn' id='getFact'>Get fact!</button>
+				</div>
+				<div class='factResult'>
+					<div id='fact'>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src='template/js/main.js'></script>
+</body>
+</html>
