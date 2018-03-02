@@ -4,6 +4,7 @@ Its an application that return you a fact by number(which you typed). The number
 # English
 Find some fact by some number connected with this number – Nikita Golubev
 (February 2018)
+
 Creation purpose:
 1)	Work with FETCH API
 2)	Advance and reinforce knowledge of native Javascript.
@@ -24,6 +25,7 @@ Yours faithfully, Nikita
 # Russian
 Найти какой-то факт по какому-то числу связанному с этим фактом – Никита Голубев
 (Февраль 2018)
+
 Цель создания:
 1)	Поработать с FETCH API
 2)	Укрепить и улучшить знания о чистом Javascript.
