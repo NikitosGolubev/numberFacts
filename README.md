@@ -5,24 +5,24 @@ https://nikitosgolubev.github.io/numberFacts/
 https://nikitosgolubev.github.io/numberFacts/
 
 # numberFacts
-Its an application that return you a fact by number(which you typed). The number is connected with fact.
+It's an application that returns you a fact by number(which you typed). The number is connected with fact.
 
 # English
 Find some fact by some number connected with this number – Nikita Golubev
 (February 2018)
 
 Creation purpose:
-1)	Work with FETCH API
-2)	Advance and reinforce knowledge of native Javascript.
-3)	Advance knowledge ES6 and native work with DOM.
-4)	Upgrade the style of coding. Learn how to write good comments, think more about naming functions and variables.
+1)  Work with FETCH API
+2)  Advance and reinforce knowledge of native Javascript.
+3)  Advance knowledge ES6 and native work with DOM.
+4)  Upgrade the style of coding. Learn how to write good comments, think more about naming functions and variables.
 
 Hello!
-You can see my project that find some fact by typed number. That fact is connected with number. To find this facts I’ve used http://numbersapi.com
+You can see my project that finds some fact by typed number. That fact is connected with the number. To find these facts I’ve used http://numbersapi.com
 At this work, should definitely look at(notice):
-1)	Fetch Api – it’s a new technology which is built on Promise, which allow to interact with AJAX a lot easier than ordinary XMLHttpRequest object. 
-2)	Writing comments and naming variables and functions. I think that comments, function names, general code clarity forms not only personal style of coding of programmer but they also say a lot about quality of that programmer that’s why I’ve tried hard to write good, valuable comments and give adequate and helpful name to variables. I consider that code has to be clear not only to computer but also to a human – programmer. Also, I’ve cared about flexibility of code to have opportunity to extend it.
-3)	Using ES6. Fetch API is possible due to ES6. Anyway, I have used: let and const declaration, Map storages, new string template, and arrow functions (inside fetch).
+1)  Fetch API – it’s a new technology which is built on Promise, which allows interacting with AJAX a lot easier than ordinary XMLHttpRequest object. 
+2)  Writing comments and naming variables and functions. I think that comments, function names, general code clarity forms not only personal style of coding of a programmer but they also say a lot about the quality of that programmer that’s why I’ve tried hard to write good, valuable comments and give an adequate and helpful name to variables. I consider that code has to be clear not only to the computer but also to a human – programmer. Also, I’ve cared about the flexibility of code to have the opportunity to extend it.
+3)  Using ES6. Fetch API is possible due to ES6. Anyway, I have used: let and const declaration, Map storages, new string template, and arrow functions (inside fetch).
 Well, the design was created by myself (I picked needed fonts in google fonts service).
 In page layout, I’ve primarily used flexbox.
 Thank for the interest that you provided to my project. I sincerely hope that you’ve appreciated it.
@@ -30,9 +30,9 @@ Yours faithfully, Nikita
 
 # UPD: 
 # Front-end
--)There were no design, so I styled all elements on flow.
+-)There was no design, so I styled all elements on flow.
 
--)At the time of creation, I had not learnt NPM, GULP, BEM, SASS yet, so this things aren't applied.
+-)At the time of creation, I had not learned NPM, GULP, BEM, SASS yet, so these things aren't applied.
 
 # Russian
 Найти какой-то факт по какому-то числу связанному с этим фактом – Никита Голубев
